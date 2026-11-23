@@ -7,10 +7,10 @@ using namespace std;
 // IMPLEMENTASI ALGORITMA DALAM C++
 // ========================================
 
-// Nama Lengkap :
-// Kelas        :
-// Nomor Absen  :
-// Judul Program:
+// Nama Lengkap :Palerina Virgie Hilagartika
+// Kelas        :XII-7
+// Nomor Absen  :28
+// Judul Program:Hitung Luas Persegi Panjang
 
 int main() {
 
